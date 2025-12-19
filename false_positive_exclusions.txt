@@ -1,7 +1,10 @@
 APClips
 Archive.org
 Code Snippet Wiki
+Coders Rank
+DeviantArt
 Fandom
+Flipboard
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -13,6 +16,7 @@ RocketTube
 SlideShare
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
 opennet
