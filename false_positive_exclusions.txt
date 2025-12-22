@@ -1,6 +1,6 @@
 APClips
+Archive.org
 Code Snippet Wiki
-DEV Community
 DeviantArt
 Fandom
 GNOME VCS
@@ -17,7 +17,7 @@ Splice
 Spotify
 Trovo
 Weblate
+YandexMusic
 opennet
 phpRU
 svidbook
-xHamster
