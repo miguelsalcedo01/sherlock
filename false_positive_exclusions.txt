@@ -1,13 +1,12 @@
 APClips
-Archive.org
+CGTrader
 Code Snippet Wiki
 DeviantArt
 Fandom
-GNOME VCS
 GeeksforGeeks
 Giphy
+Gravatar
 Hubski
-LiveJournal
 LushStories
 PocketStars
 Reddit
@@ -16,7 +15,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
 opennet
