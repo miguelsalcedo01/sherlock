@@ -1,7 +1,8 @@
 APClips
+Academia.edu
 Archive.org
-Audiojungle
 Code Snippet Wiki
+DEV Community
 DeviantArt
 Fandom
 GNOME VCS
@@ -17,9 +18,9 @@ SlideShare
 Splice
 Spotify
 Trovo
-TryHackMe
 Weblate
 YandexMusic
+mercadolivre
 opennet
 phpRU
 svidbook
