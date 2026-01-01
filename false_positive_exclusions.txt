@@ -1,13 +1,12 @@
 APClips
-Academia.edu
 Archive.org
 Code Snippet Wiki
-DEV Community
 DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+GitHub
 Hubski
 LushStories
 PocketStars
@@ -21,6 +20,5 @@ Trovo
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
