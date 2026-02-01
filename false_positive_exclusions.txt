@@ -6,6 +6,7 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hubski
 LushStories
 PocketStars
@@ -18,10 +19,8 @@ Smule
 Splice
 Spotify
 Trovo
-TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
