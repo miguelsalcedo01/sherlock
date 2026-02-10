@@ -10,12 +10,14 @@ Hubski
 LushStories
 Minecraft
 PocketStars
+Rajce.net
 Realmeye
 Reddit
 RocketTube
 Scribd
 SlideShare
 Smule
+Snapchat
 Splice
 Spotify
 Trovo
@@ -23,6 +25,7 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
 xHamster
