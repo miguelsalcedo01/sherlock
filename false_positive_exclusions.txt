@@ -6,6 +6,8 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+LessWrong
+LiveJournal
 LushStories
 PocketStars
 Realmeye
