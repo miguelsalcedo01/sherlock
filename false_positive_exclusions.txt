@@ -1,29 +1,26 @@
 APClips
 Archive.org
-Audiojungle
-Carbonmade
 Code Snippet Wiki
-DeviantArt
+Cults3D
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
 LushStories
+OurDJTalk
 PocketStars
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
+YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
