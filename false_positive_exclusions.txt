@@ -1,13 +1,12 @@
 APClips
 Archive.org
-Audiojungle
-Code Snippet Wiki
 DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 Patched
@@ -17,7 +16,6 @@ Reddit
 RocketTube
 RuneScape
 Scribd
-Slack
 SlideShare
 Smule
 Splice
