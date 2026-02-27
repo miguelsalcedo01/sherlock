@@ -1,4 +1,5 @@
 APClips
+Anilist
 Archive.org
 GNOME VCS
 GeeksforGeeks
@@ -7,19 +8,17 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-OurDJTalk
+Minecraft
 Patched
 PocketStars
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
 Splice
 Spotify
-Strava
 TryHackMe
 Weblate
 YandexMusic
