@@ -1,10 +1,10 @@
 APClips
 Archive.org
-BoardGameGeek
 Codolio
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
 LessWrong
@@ -17,6 +17,7 @@ Realmeye
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
