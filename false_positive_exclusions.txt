@@ -14,11 +14,9 @@ Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 Strava
@@ -26,7 +24,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
+nnRU
 phpRU
 svidbook
-xHamster
