@@ -4,13 +4,9 @@ Codolio
 DeviantArt
 GeeksforGeeks
 Giphy
-Gravatar
 Hashnode
 Hubski
-Itch.io
 LessWrong
-LushStories
-Minecraft
 Patched
 PocketStars
 Rarible
@@ -20,7 +16,6 @@ RocketTube
 Scribd
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 Trovo
@@ -31,3 +26,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
