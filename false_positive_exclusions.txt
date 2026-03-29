@@ -1,13 +1,16 @@
 APClips
 Archive.org
+CGTrader
 Codolio
-DeviantArt
+DigitalSpy
 GeeksforGeeks
 Giphy
-Gravatar
 Hashnode
 Hubski
+Itch.io
+LessWrong
 LushStories
+Minecraft
 Patched
 PocketStars
 Rarible
@@ -19,7 +22,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
