@@ -1,18 +1,21 @@
 7Cups
 APClips
+Archive of Our Own
 Archive.org
 Bandcamp
+Chess
 Codolio
-DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
 LessWrong
 LushStories
 Patched
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -22,12 +25,13 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
+eintracht
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
