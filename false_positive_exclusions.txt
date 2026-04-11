@@ -5,6 +5,7 @@ Bandcamp
 Codolio
 DeviantArt
 Discord.bio
+Dribbble
 GeeksforGeeks
 Giphy
 Hashnode
@@ -30,8 +31,7 @@ Weblate
 YandexMusic
 interpals
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
-xHamster
+threads
