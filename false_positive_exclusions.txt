@@ -2,7 +2,6 @@
 APClips
 Apple Discussions
 Archive.org
-Audiojungle
 Bandcamp
 Codolio
 Discord.bio
@@ -26,10 +25,10 @@ Splice
 Spotify
 TryHackMe
 Weblate
+YandexMusic
 dailykos
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
