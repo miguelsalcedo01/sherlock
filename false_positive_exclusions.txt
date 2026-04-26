@@ -2,11 +2,12 @@
 APClips
 Airliners
 Apple Discussions
-Archive of Our Own
 Archive.org
 Bandcamp
 Codolio
+DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 GeeksforGeeks
 Giphy
 Hashnode
@@ -14,6 +15,7 @@ Hubski
 LessWrong
 LushStories
 Patched
+Python.org Discussions
 Rarible
 Realmeye
 Reddit
@@ -23,13 +25,13 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
 dailykos
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
