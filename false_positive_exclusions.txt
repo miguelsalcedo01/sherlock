@@ -7,7 +7,6 @@ Bandcamp
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 GeeksforGeeks
 Giphy
 Hashnode
@@ -15,7 +14,7 @@ Hubski
 LessWrong
 LushStories
 Patched
-Python.org Discussions
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -32,6 +31,7 @@ YandexMusic
 dailykos
 interpals
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
