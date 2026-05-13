@@ -1,20 +1,17 @@
 7Cups
 Airliners
 Apple Discussions
+Archive.org
 ArtStation
-Audiojungle
 Bandcamp
 Codolio
-DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
 Motherless
 Patched
 Rarible
@@ -26,11 +23,9 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
-YandexMusic
 dailykos
 igromania
 interpals
