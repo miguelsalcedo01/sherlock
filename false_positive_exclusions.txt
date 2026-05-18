@@ -13,7 +13,6 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LushStories
 Patched
 Pornhub
 Rarible
@@ -38,3 +37,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
