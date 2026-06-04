@@ -1,10 +1,11 @@
 7Cups
 Airliners
+Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-BoardGameGeek
+Carbonmade
 Codolio
 DeviantArt
 Discord.bio
@@ -13,8 +14,7 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
-LushStories
+Minecraft
 Patched
 Rarible
 Realmeye
