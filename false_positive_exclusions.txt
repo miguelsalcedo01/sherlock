@@ -14,7 +14,8 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LushStories
+Itch.io
+LessWrong
 Patched
 Pornhub
 Rarible
@@ -22,6 +23,7 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Splice
@@ -38,4 +40,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
