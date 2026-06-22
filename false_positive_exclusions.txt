@@ -6,11 +6,9 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-BoardGameGeek
 Codolio
 DeviantArt
 Discord.bio
-Dribbble
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -20,6 +18,7 @@ Itch.io
 LessWrong
 LushStories
 Odysee
+OurDJTalk
 Patched
 Pornhub
 Rarible
@@ -27,11 +26,12 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
+RuneScape
 Scribd
+Slack
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -39,11 +39,11 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+furaffinity
 igromania
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
-threads
 xHamster
