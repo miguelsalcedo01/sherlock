@@ -8,6 +8,7 @@ ArtStation
 Bandcamp
 BreachSta.rs Forum
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -28,9 +29,10 @@ Replit.com
 RocketTube
 Scribd
 SlideShare
+Snapchat
 Splice
 Spotify
-Strava
+Trovo
 TryHackMe
 Velomania
 Weblate
@@ -43,3 +45,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
