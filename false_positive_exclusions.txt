@@ -16,6 +16,7 @@ Giphy
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
 LushStories
 Odysee
@@ -29,7 +30,6 @@ Replit.com
 RocketTube
 Scribd
 SlideShare
-Snapchat
 Splice
 Spotify
 Trovo
@@ -45,4 +45,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
