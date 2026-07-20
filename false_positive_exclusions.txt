@@ -3,9 +3,11 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
+Archive.org
 ArtStation
 Bandcamp
 BreachSta.rs Forum
+Carbonmade
 Codolio
 DeviantArt
 Discord.bio
@@ -13,11 +15,11 @@ Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
-Heavy-R
 Hubski
 LessWrong
 LushStories
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -30,6 +32,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
