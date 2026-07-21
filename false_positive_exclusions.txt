@@ -6,8 +6,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-BreachSta.rs Forum
-Carbonmade
 Codolio
 DeviantArt
 Discord.bio
@@ -17,9 +15,9 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+LinkedIn
 LushStories
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -32,7 +30,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
