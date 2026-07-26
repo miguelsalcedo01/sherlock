@@ -19,6 +19,7 @@ LushStories
 Minecraft
 Odysee
 PCGamer
+Patched
 Rarible
 Realmeye
 Reddit
@@ -28,7 +29,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-TikTok
 Trovo
 TryHackMe
 Weblate
