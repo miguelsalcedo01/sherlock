@@ -22,7 +22,6 @@ LushStories
 Odysee
 PCGamer
 Patched
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -35,7 +34,6 @@ Spotify
 Trovo
 TryHackMe
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
