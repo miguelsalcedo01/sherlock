@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -15,7 +14,6 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Houzz
 Hubski
@@ -24,6 +22,7 @@ LessWrong
 LinkedIn
 LushStories
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -39,9 +38,7 @@ Spotify
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
-WordPress
 YandexMusic
 authorSTREAM
 dailykos
