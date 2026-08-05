@@ -8,6 +8,7 @@ Bandcamp
 Blogger
 Chatujme.cz
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -18,13 +19,12 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LessWrong
 LinkedIn
 LushStories
 Odysee
-OurDJTalk
 PCGamer
 Patched
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -32,10 +32,10 @@ Replit.com
 ReverbNation
 RocketTube
 Scribd
+Slack
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Weblate
