@@ -1,11 +1,11 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -19,7 +19,8 @@ Houzz
 Hubski
 Instapaper
 LinkedIn
-Minecraft
+LiveJournal
+LushStories
 Odysee
 PCGamer
 Patched
@@ -30,10 +31,12 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
