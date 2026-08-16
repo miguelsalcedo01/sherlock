@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -25,6 +24,7 @@ LinkedIn
 LushStories
 Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -40,7 +40,6 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -49,6 +48,8 @@ hunting
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
+xHamster
