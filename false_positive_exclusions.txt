@@ -20,10 +20,9 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
-Minecraft
 Odysee
+OurDJTalk
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -34,6 +33,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trakt
 Trovo
 TryHackMe
