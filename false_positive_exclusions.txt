@@ -20,9 +20,7 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
-Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Rarible
 Realmeye
@@ -34,12 +32,10 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
 Weblate
-Wikidot
 YandexMusic
 authorSTREAM
 dailykos
