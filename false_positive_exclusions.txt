@@ -1,17 +1,15 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
-Cracked Forum
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -23,7 +21,7 @@ Houzz
 Hubski
 Instapaper
 LinkedIn
-Minecraft
+LushStories
 ObservableHQ
 Odysee
 PCGamer
@@ -31,10 +29,8 @@ Pornhub
 Rarible
 Realmeye
 Reddit
-Replit.com
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Splice
