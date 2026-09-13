@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -9,7 +10,6 @@ Championat
 Chatujme.cz
 ChaturBate
 Codolio
-ColourLovers
 DeviantArt
 Discord.bio
 Envato Forum
@@ -21,6 +21,7 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -51,3 +52,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
