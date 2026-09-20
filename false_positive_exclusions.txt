@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -9,7 +8,6 @@ Bandcamp
 CGTrader
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -20,13 +18,12 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LinkedIn
+LushStories
 Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -42,6 +39,7 @@ TryHackMe
 Velomania
 Weblate
 YandexMusic
+authorSTREAM
 dailykos
 fixya
 hunting
@@ -52,4 +50,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
