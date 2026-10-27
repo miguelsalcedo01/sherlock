@@ -1,13 +1,12 @@
-7Cups
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CGTrader
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -22,7 +21,7 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
-LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
