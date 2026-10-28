@@ -4,9 +4,9 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+CGTrader
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -21,7 +21,6 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -34,8 +33,10 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
+Vero
 Weblate
 YandexMusic
 authorSTREAM
