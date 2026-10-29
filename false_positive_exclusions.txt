@@ -4,7 +4,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CGTrader
 Championat
 Chatujme.cz
 Codolio
@@ -21,6 +20,7 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -43,6 +43,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
