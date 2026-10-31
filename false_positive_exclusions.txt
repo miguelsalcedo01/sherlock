@@ -20,9 +20,11 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
+LushStories
 ObservableHQ
 Odysee
 PCGamer
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -34,13 +36,13 @@ Splice
 Spotify
 Trakt
 TryHackMe
+Venmo
 Vero
 YandexMusic
 authorSTREAM
 dailykos
 fixya
 hunting
-igromania
 interpals
 mercadolivre
 opennet
