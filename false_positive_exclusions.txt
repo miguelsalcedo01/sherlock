@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -20,13 +21,12 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LinkedIn
 Linktree
-LushStories
 ObservableHQ
 Odysee
 PCGamer
-Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -35,8 +35,9 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
+Strava
 TryHackMe
+Velomania
 Vero
 YandexMusic
 authorSTREAM
@@ -45,7 +46,6 @@ fixya
 hunting
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
