@@ -3,6 +3,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -17,6 +18,7 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
+LushStories
 Minecraft
 ObservableHQ
 Odysee
@@ -26,6 +28,7 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Splice
@@ -45,4 +48,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
