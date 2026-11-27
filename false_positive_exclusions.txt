@@ -1,3 +1,4 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -20,6 +21,7 @@ LushStories
 Minecraft
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
 Rarible
 Realmeye
@@ -30,6 +32,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
@@ -45,3 +48,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
